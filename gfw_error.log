@@ -1,0 +1,2 @@
+Status: 422
+Body: {"statusCode":422,"error":"Unprocessable Entity","messages":[{"title":"spatial-resolution","detail":"spatial-resolution could be LOW,HIGH"}]}
